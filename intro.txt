@@ -1,2 +1,5 @@
 Automatic pull the airflow dags 
 
+Automatic pull the airflow dags 
+
+Here is how , every time crontab will run in 5 minutes and will pull the dags 
